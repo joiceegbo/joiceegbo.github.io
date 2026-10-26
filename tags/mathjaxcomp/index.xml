@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>MathjaxComp on Hugo Profile</title>
+		<link>http://localhost:1313/tags/mathjaxcomp/</link>
+		<description>Recent content in MathjaxComp on Hugo Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Oct 2026 19:53:33 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/mathjaxcomp/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>UniTre Course Improvement Survey Blog</title>
+				<link>http://localhost:1313/blogs/math/</link>
+				<pubDate>Thu, 22 Oct 2026 19:53:33 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/math/</guid>
+				<description>&lt;h2 id=&#34;background-turning-student-feedback-into-better-learning-experiences&#34;&gt;Background: Turning Student Feedback into Better Learning Experiences&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A Data Science Ethics Discussion&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;key-ethics-concepts-in-focus&#34;&gt;Key Ethics Concepts in Focus&lt;/h2&gt;&#xA;&lt;p&gt;The UniTre scenario highlights several important data science ethics concepts: privacy, confidentiality, anonymity, re-identification, informed consent, compulsion, transparency, data misuse, bias, fairness, data protection, data governance, accountability, and responsible data analysis.&lt;/p&gt;&#xA;&lt;p&gt;Student feedback can help a college identify courses that may need updating or redesigning. However, the value of a course improvement survey depends not only on what the institution hopes to achieve, but also on how information is collected, protected, analyzed, and used. The UniTre Course Improvement Survey provides an opportunity to consider how ethical principles can guide data collection and decision-making.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
